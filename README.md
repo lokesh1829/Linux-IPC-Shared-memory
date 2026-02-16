@@ -136,6 +136,8 @@ int main() {
 
 
 ## OUTPUT
+![IMG-20260216-WA0001](https://github.com/user-attachments/assets/02d040b2-a1da-40cd-bc4f-478202ac9393)
+![IMG-20260216-WA0002](https://github.com/user-attachments/assets/2d858772-5012-4d12-b211-c35bc74c5ea6)
 
 
 # RESULT:
